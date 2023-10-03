@@ -7,6 +7,10 @@
 		{
 			"title": "Another Message",
 			"message": "Woot!"
+		},
+		{
+			"title": "Third",
+			"message": "Yep, yep!"
 		}
 	]
 }
